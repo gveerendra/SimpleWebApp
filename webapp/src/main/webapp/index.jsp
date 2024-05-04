@@ -100,7 +100,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>I Received lot of money every day. Thank you universe</h1>
+         <h1>I Received lot of money every day. Thank you universe.Thak you. </h1>
     </section>    
     <section id="about"><h1>This is the About Page</h1></section>
     <section id="product"><h1>This is the Product Web Page !!</h1></section>
